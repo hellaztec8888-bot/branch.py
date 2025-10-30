@@ -1,0 +1,3 @@
+writetopython
+idontunderstand
+Idontfuckingstand
